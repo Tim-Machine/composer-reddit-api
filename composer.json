@@ -1,0 +1,14 @@
+{
+    "name": "tsmith/composer-reddit-api",
+    "description": "Reddit wrapper using composer",
+    "license": "Free Beer http://www.tryba.nl/manuals/license/beer.html",
+    "authors": [
+        {
+            "name": "Tim Smith",
+            "email": "tsmith@bfgcom.com"
+        }
+    ],
+    "require": {
+
+    }
+}
